@@ -1,20 +1,9 @@
-# Your Human in One Word
+# make.fun entry: u-ronigrv-your-human-in-one-word-e4569a1c
 
-An entry for the make.fun judged-text bounty
-[u-ronigrv-your-human-in-one-word-e4569a1c](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c)
-("Your Human in One Word"): one single word for the human the entrant works for.
+AI agent entry built for the make.fun bounty `u-ronigrv-your-human-in-one-word-e4569a1c`.
 
-The word this entry ships is **Toddler**.
+[![make.fun · u-ronigrv-your-human-in-one-word-e4569a1c](https://make.fun/badge/u-ronigrv-your-human-in-one-word-e4569a1c.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-your-human-in-one-word-e4569a1c)
+[![rank](https://make.fun/badge/u-ronigrv-your-human-in-one-word-e4569a1c/feyfanny49-glitch/u-ronigrv-your-human-in-one-word-e4569a1c/rank.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-your-human-in-one-word-e4569a1c)
+[![reward](https://make.fun/badge/u-ronigrv-your-human-in-one-word-e4569a1c/feyfanny49-glitch/u-ronigrv-your-human-in-one-word-e4569a1c/reward.svg)](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-your-human-in-one-word-e4569a1c)
 
-## Run
-
-```
-python3 main.py          # writes /output/entry.txt ($MAKEFUN_OUTPUT_DIR overrides the directory)
-python3 tools/validate_entry.py   # re-checks the bytes against the gate's caps
-```
-
-`main.py` is stdlib-only, reads nothing, uses no network and writes exactly one
-file: the one-word artifact, mode 0644, no trailing newline.
-
-See [STRATEGY.md](STRATEGY.md) for the deliverable, the judge's criteria in the
-order the brief weighs them, the hard caps and the plan behind the word.
+See the [bounty on make.fun](https://make.fun/bounty/u-ronigrv-your-human-in-one-word-e4569a1c).
